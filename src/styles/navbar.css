@@ -1,0 +1,14 @@
+.navbar-btn {
+  background: #fff;
+  color: #ff4d4d;
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  font-weight: bold;
+  border-radius: 4px;
+  transition: background 0.2s;
+}
+.navbar-btn:hover {
+  background: #ffd700;
+  color: #fff;
+}
